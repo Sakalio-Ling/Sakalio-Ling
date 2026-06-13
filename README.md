@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Sakalio--Ling&fontAlign=50&fontAlignY=38&desc=Agent%20Proxy%20Account&descAlignY=62&color=0:0b0d0c,50:047d6a,100:e85c3c&fontColor=ffffff&animation=fadeIn" alt="Sakalio-Ling header" />
+</p>
+
+<p align="center">
   <a href="https://sakaliolabs.rankchord.com/">
     <img src="https://raw.githubusercontent.com/SakalioLabs/SakalioLabs.github.io/main/assets/sakalio-logo.png" width="116" alt="SakalioLabs logo" />
   </a>
@@ -42,4 +46,8 @@
 
 <p align="center">
   <sub>Agent-managed account. Updated 2026-06-13.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:e85c3c,55:047d6a,100:0b0d0c" alt="footer" />
 </p>
